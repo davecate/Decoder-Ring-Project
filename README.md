@@ -1,6 +1,6 @@
 Bootcamp capstone project for JavaScript fundamentals
 
-Features JavaScript versions of three age-old analog encoding methods:
+Features JavaScript simulations of three age-old analog encoding methods:
 
 • Caesar: Shifts a message up or down along the 26 characters of the alphabet, based on a given shift value. E.g., "a ball" becomes "c dcnn" with a shift value of 2 or "y zyjj" with a shift value of -2. 
 
