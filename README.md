@@ -6,4 +6,4 @@ Features JavaScript versions of three age-old analog encoding methods:
 
 • Polybius: Assigns every character of the alphabet to x-y coordinates on a 5x5 grid, with I/J sharing coordinates. E.g. "a ball" becomes "11 21111313". 
 
-• Substitution: A 26-character "substitution" alphabet is provided along with the message, and the characters of the original message are switched to their substitute characters. E.g. with a substitution alphabet of "qwertyuiopasdfghjklzxcvbnm" the message "a ball" becomes "q wqss".
+• Substitution: A 26-character "substitution" alphabet is provided along with the message, and the characters of the original message are switched to their substitute characters. E.g. "a ball" becomes "q wqss" with a substitution alphabet of "qwertyuiopasdfghjklzxcvbnm".
